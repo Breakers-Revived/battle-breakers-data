@@ -1,0 +1,1 @@
+[{"Type":"SoundClass","Name":"Normal_Enemy_Combat_Sounds","Class":"UScriptClass'SoundClass'","Properties":{"Properties":{"Volume":1.3,"LFEBleed":0.0},"ParentClass":{"ObjectName":"SoundClass'SFX'","ObjectPath":"WorldExplorers/Content/Audio/SoundClasses/SFX.0"}}}]

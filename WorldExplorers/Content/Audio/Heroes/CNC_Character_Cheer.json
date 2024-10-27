@@ -1,0 +1,1 @@
+[{"Type":"SoundConcurrency","Name":"CNC_Character_Cheer","Class":"UScriptClass'SoundConcurrency'","Properties":{"Concurrency":{"ResolutionRule":"EMaxConcurrentResolutionRule::StopOldest"}}}]

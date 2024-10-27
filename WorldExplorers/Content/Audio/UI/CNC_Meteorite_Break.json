@@ -1,0 +1,1 @@
+[{"Type":"SoundConcurrency","Name":"CNC_Meteorite_Break","Class":"UScriptClass'SoundConcurrency'","Properties":{"Concurrency":{"MaxCount":2,"ResolutionRule":"EMaxConcurrentResolutionRule::StopOldest","VolumeScale":0.3}}}]

@@ -1,0 +1,1 @@
+[{"Type":"SoundClass","Name":"WEXP_Master","Class":"UScriptClass'SoundClass'","Properties":{"Properties":{"LFEBleed":0.0},"ChildClasses":[{"ObjectName":"SoundClass'SFX'","ObjectPath":"WorldExplorers/Content/Audio/SoundClasses/SFX.0"},{"ObjectName":"SoundClass'Music'","ObjectPath":"WorldExplorers/Content/Audio/SoundClasses/Music.0"}]}}]

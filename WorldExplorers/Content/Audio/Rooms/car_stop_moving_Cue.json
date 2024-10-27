@@ -1,0 +1,1 @@
+[{"Type":"SoundCue","Name":"car_stop_moving_Cue","Class":"UScriptClass'SoundCue'","Properties":{"bOverrideConcurrency":true,"ConcurrencyOverrides":{"ResolutionRule":"EMaxConcurrentResolutionRule::PreventNew"}}}]

@@ -1,0 +1,1 @@
+[{"Type":"WExpCameraTransitionAsset","Name":"Character_Inspect_Menu_Camera","Class":"UScriptClass'WExpCameraTransitionAsset'","Properties":{"Distance":1536.0,"Rotation":{"Pitch":3.0,"Yaw":0.0,"Roll":0.0},"Offset":{"X":560.0,"Y":100.0,"Z":-260.0},"FOV":55.0,"Duration":0.5,"bCalculateFOVWithRegardsToAspectRatio":true}}]

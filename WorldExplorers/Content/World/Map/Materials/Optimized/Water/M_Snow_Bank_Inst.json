@@ -1,0 +1,1 @@
+[{"Type":"MaterialInstanceConstant","Name":"M_Snow_Bank_Inst","Class":"UScriptClass'MaterialInstanceConstant'","Properties":{"Parent":{"ObjectName":"Material'M_Snow_Bank'","ObjectPath":"WorldExplorers/Content/World/Map/Materials/Optimized/Water/M_Snow_Bank.0"},"BasePropertyOverrides":{"BlendMode":"BLEND_Translucent","ShadingModel":"MSM_Unlit","OpacityMaskClipValue":0.3333}}}]

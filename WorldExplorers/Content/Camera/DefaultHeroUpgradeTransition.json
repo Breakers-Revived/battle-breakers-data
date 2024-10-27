@@ -1,0 +1,1 @@
+[{"Type":"WExpCameraTransitionAsset","Name":"DefaultHeroUpgradeTransition","Class":"UScriptClass'WExpCameraTransitionAsset'","Properties":{"Distance":1536.0,"Rotation":{"Pitch":5.0,"Yaw":0.0,"Roll":0.0},"Offset":{"X":170.0,"Y":0.0,"Z":-200.0},"FOV":40.0}}]

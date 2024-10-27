@@ -1,0 +1,1 @@
+[{"Type":"MaterialInstanceConstant","Name":"M_BookBacking_Inst_Dark","Class":"UScriptClass'MaterialInstanceConstant'","Properties":{"Parent":{"ObjectName":"Material'M_BookBacking'","ObjectPath":"WorldExplorers/Content/Loot/Blueprints/M_BookBacking.0"},"BasePropertyOverrides":{"BlendMode":"BLEND_Additive","ShadingModel":"MSM_Unlit","OpacityMaskClipValue":0.3333}}}]

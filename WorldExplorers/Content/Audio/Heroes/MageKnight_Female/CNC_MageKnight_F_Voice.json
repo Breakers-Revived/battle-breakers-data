@@ -1,0 +1,1 @@
+[{"Type":"SoundConcurrency","Name":"CNC_MageKnight_F_Voice","Class":"UScriptClass'SoundConcurrency'","Properties":{"Concurrency":{"MaxCount":1,"ResolutionRule":"EMaxConcurrentResolutionRule::PreventNew"}}}]

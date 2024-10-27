@@ -1,0 +1,1 @@
+[{"Type":"MaterialInstanceConstant","Name":"M_ManaFX_01_Inst","Class":"UScriptClass'MaterialInstanceConstant'","Properties":{"Parent":{"ObjectName":"Material'M_ManaFX_01'","ObjectPath":"WorldExplorers/Content/Characters/AbilityActors/Shrine/ManaPool/M_ManaFX_01.0"},"BasePropertyOverrides":{"BlendMode":"BLEND_Additive","ShadingModel":"MSM_Unlit","OpacityMaskClipValue":0.3333}}}]

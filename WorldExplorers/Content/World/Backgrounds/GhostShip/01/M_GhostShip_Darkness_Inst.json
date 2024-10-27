@@ -1,0 +1,1 @@
+[{"Type":"MaterialInstanceConstant","Name":"M_GhostShip_Darkness_Inst","Class":"UScriptClass'MaterialInstanceConstant'","Properties":{"Parent":{"ObjectName":"Material'M_GhostShip_Darkness'","ObjectPath":"WorldExplorers/Content/World/Backgrounds/GhostShip/01/M_GhostShip_Darkness.0"},"BasePropertyOverrides":{"ShadingModel":"MSM_Unlit","OpacityMaskClipValue":0.3333}}}]

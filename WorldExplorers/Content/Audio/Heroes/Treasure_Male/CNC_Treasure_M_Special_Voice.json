@@ -1,0 +1,1 @@
+[{"Type":"SoundConcurrency","Name":"CNC_Treasure_M_Special_Voice","Class":"UScriptClass'SoundConcurrency'","Properties":{"Concurrency":{"MaxCount":1,"ResolutionRule":"EMaxConcurrentResolutionRule::StopOldest"}}}]
